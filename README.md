@@ -31,7 +31,7 @@ causes the ghosts to turn blue, allowing Pac-Man to eat them for bonus points.
 
 ### Project Sumary:
 The game is created with the usage of the DOM elements - each cell in the grid is a <div> element. 
-The logic for movement and collisons in the project is done by adding and removing css classes to the
+The logic for movement and collisions in the project is done by adding and removing CSS classes to the
 <div> grid elements.
   
 ![PacManGamePlay](https://user-images.githubusercontent.com/99598013/153959676-e044a526-6df5-4c5d-8972-6809fb3069b7.png)
