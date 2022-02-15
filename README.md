@@ -20,7 +20,7 @@ causes the ghosts to turn blue, allowing Pac-Man to eat them for bonus points.
 ### Platform
   - Web
 
-### JvaScripts Functions used
+### JavaScript's Functions used
   - setTimeOut()
   - setInterval
   - classList.contains()
